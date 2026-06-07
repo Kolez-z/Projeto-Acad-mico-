@@ -1,7 +1,13 @@
-Projeto G.E.P.A
+Título: Projeto G.E.P.A
 
-            O Projeto G.E.P.A é um software desenvolvido pelo grupo C, para a finalidade de ser um gerenciador escolar para alunos organizarem suas tarefas acadêmicas
+Descrição: O Projeto G.E.P.A é um software desenvolvido pelo grupo C, para a finalidade de ser um gerenciador escolar para alunos organizarem suas tarefas acadêmicas.
+
+Objetivo: Registrar, modificar e excluir tarefas previamente estabelecidas para um controle de fluxo do usuário em prol do desempenho acadêmico.
+
+Tecnologias utilizadas: Linguagens de programação (Python, HTML, CSS), ambiente (VSCODE), repositório (Github).
+
+Funcionalidades: Adição e exclusão de tarefas, busca com filtro, registro de aluno, edição e complementação de tarefas estabelecidas.
 
 Integrantes: Matheus Willian, Pedro Eduardo, Pedro Kobayashi, Vitor Guilherme.
 
-31/05/2026
+Instruções: Se atente as informações disponíveis no console, se atente nas opções do menu e faça bom uso.
