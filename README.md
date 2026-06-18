@@ -1,8 +1,30 @@
-Projeto G.E.P.A
+#Título: Projeto G.E.P.A
 
+<<<<<<< HEAD
             O Projeto G.E.P.A é um software desenvolvido pelo grupo C, para a finalidade de ser um gerenciador escolar para alunos organizarem suas tarefas acadêmicas
             https://github.com/Kolez-z/Projeto-Acad-mico-
+=======
+##Descrição: O Projeto G.E.P.A é um software desenvolvido pelo grupo C, para a finalidade de ser um gerenciador escolar para alunos organizarem suas tarefas acadêmicas.
+>>>>>>> c4b27517a16098f897ea9da4efb90fd2be212ead
 
-Integrantes: Matheus Willian, Pedro Eduardo, Pedro Kobayashi, Vitor Guilherme.
+##Objetivo: Registrar, modificar e excluir tarefas previamente estabelecidas para um controle de fluxo do usuário em prol do desempenho acadêmico.
 
-31/05/2026
+##Tecnologias utilizadas: 
+-Linguagens de programação (Python, HTML, CSS) 
+-Ambiente (VSCODE) 
+-Repositório (Github)
+
+##Funcionalidades: Adição e exclusão de tarefas, busca com filtro, registro de aluno, edição e complementação de tarefas estabelecidas.
+
+##Integrantes: Matheus Willian, Pedro Eduardo, Pedro Kobayashi, Vitor Guilherme.
+
+##Instruções: Se atente as informações disponíveis no console, se atente nas opções do menu e faça bom uso.
+
+##Link: https://github.com/Kolez-z/Projeto-Acad-mico-.git
+---
+```html
+<h4> Projeto G.E.P.A <h4/>
+```
+---
+
+![Tela do Sistema](github1.png)
